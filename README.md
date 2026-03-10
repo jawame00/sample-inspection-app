@@ -54,5 +54,5 @@ sample-inspection-app/
 
 ## Author
 
-Hal
+Jawame
 
