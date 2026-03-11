@@ -18,7 +18,6 @@ The application reads CSV files, merges inspection data with standard values, an
 
 * Python 3.11
 * pandas
-* openpyxl
 * tkinter
 * PyInstaller
 
